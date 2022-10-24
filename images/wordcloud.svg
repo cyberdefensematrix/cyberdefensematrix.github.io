@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="853.23" height="364.8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-7.2542 -19.798)" font-family="Impact" text-anchor="middle">
+  <text x="639.19666" y="327.76498" fill="#5254a3" font-size="53.333px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Threat Intelligence</text>
+  <text x="477.37476" y="382.50812" fill="#8c6d31" font-size="18.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="477.37476" y="382.50812">Attack Surface Management</tspan></text>
+  <text x="542.7478" y="37.016109" fill="#bd9e39" font-size="21.333px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="542.7478" y="37.016109">Interactive Application Security Testing</tspan></text>
+  <text x="551.50586" y="148.76936" fill="#e7ba52" font-size="29.333px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="551.50586" y="148.76936">Secure Access Service Edge</tspan></text>
+  <text x="191.85233" y="185.45297" fill="#e7cb94" font-size="18.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="191.85233" y="185.45297">Cloud Workload Protection Platform</tspan></text>
+  <text x="220.65727" y="326.29211" fill="#843c39" font-size="37px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="220.65727" y="326.29211">Artificial Intelligence / ML</tspan></text>
+  <text x="609.41193" y="176.14893" fill="#ad494a" font-size="26.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="609.41193" y="176.14893">Cloud Infrastructure Entitlement Management</tspan></text>
+  <text x="179.00423" y="158.26212" fill="#d6616b" font-size="32px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="179.00423" y="158.26212">Zero Trust Network Access</tspan></text>
+  <text x="682.83447" y="124.36995" fill="#7b4173" font-size="32px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="682.83447" y="124.36995">Secrets Management</tspan></text>
+  <text x="262.67242" y="51.532112" fill="#637939" font-size="25px">Phishing Awareness</text>
+  <text x="221.41086" y="73.187012" fill="#6b6ecf" font-size="21.333px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="221.41086" y="73.187012">User &amp; Entity Behavioral Analytics</tspan></text>
+  <text x="679.25354" y="58.209499" fill="#ce6dbd" font-size="18.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="679.25354" y="58.209499">eXtended Detection &amp; Response</tspan></text>
+  <text x="462.10291" y="76.069267" fill="#a55194" font-size="32px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Insider Threat</text>
+  <text x="715.62146" y="85.293709" fill="#b5cf6b" font-size="26.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Data Loss Prevention</text>
+  <text x="210.54224" y="129.84615" fill="#e7969c" font-size="21.333px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="210.54224" y="129.84615">Endpoint Detection &amp; Response</tspan></text>
+  <text x="163.38715" y="104.85299" fill="#8ca252" font-size="32px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Endpoint Protection</text>
+  <text x="447.01419" y="97.61097" fill="#9c9ede" font-size="25px">Cloud Access Security Broker</text>
+  <text x="660.47052" y="355.3136" fill="#cedb9c" font-size="25px">Database Activity Monitoring</text>
+  <text x="676.96375" y="192.83792" fill="#e7cb94" font-size="16px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="676.96375" y="192.83792">Web Application &amp; API Protection</tspan></text>
+  <text x="559.09332" y="280.37076" fill="#393b79" font-size="40px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="559.09332" y="280.37076">Cloud Security Posture Management</tspan></text>
+  <text x="449.25931" y="240.3763" fill="#ad494a" font-size="64px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan>Identity &amp; Access Management</tspan></text>
+  <text x="139.02263" y="289.72824" fill="#58db9c" font-size="25px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="139.02263" y="289.72824">Microsegmentation</tspan></text>
+  <text x="255.38736" y="359.4725" fill="#087add" font-size="32px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="255.38736" y="359.4725">Privileged Access Management</tspan></text>
+  <text x="164.98572" y="260.04028" fill="#da6d31" font-size="13.333px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="164.98572" y="260.04028">Content Disarm &amp; Reconstruction</tspan></text>
+  <text x="424.29663" y="188.71472" fill="#1cd4bd" font-size="13.333px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="424.29663" y="188.71472">Software Composition Analysis</tspan></text>
+  <text x="442.53757" y="120.34123" fill="#f06d31" font-size="18.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan x="442.53757" y="120.34123">Confidential Computing</tspan></text>
+ </g>
+</svg>

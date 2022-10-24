@@ -1,0 +1,45 @@
+<svg viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Cyber Defense Matrix</title>
+
+<!-- Inverted Triangles -->
+  <path id="people" d="m111,395l0,10l360,30l0,-40l-360,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#0F58FD" fill="#0F58FD"/>
+  <path id="technology" d="m111,405l0,40l360,0l0,-10l-360,-30z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#FF0033" fill="#FF0033"/>
+  <path id="process" d="m111,445l0,25l360,0l0,-25l-360,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#33CC33" fill="#33CC33"/>
+
+ <!-- Grid -->
+  <line id="hor_1" y2="45" x2="471" y1="45" x1="111" stroke="#999999" fill="none"/>
+  <line id="hor_2" y2="115" x2="471" y1="115" x1="111" stroke="#999999" fill="none"/>
+  <line id="hor_3" y2="185" x2="471" y1="185" x1="111" stroke="#999999" fill="none"/>
+  <line id="hor_4" y2="255" x2="471" y1="255" x1="111" stroke="#999999" fill="none"/>
+  <line id="hor_5" y2="325" x2="471" y1="325" x1="111" stroke="#999999" fill="none"/>
+  <line id="hor_6" y2="395" x2="471" y1="395" x1="111" stroke="#999999" fill="none"/>
+  <line id="ver_1" y2="45" x2="111" y1="395" x1="111" stroke="#999999" fill="none"/>
+  <line id="ver_2" y2="45" x2="183" y1="395" x1="183" stroke="#999999" fill="none"/>
+  <line id="ver_3" y2="45" x2="255" y1="395" x1="255" stroke="#999999" fill="none"/>
+  <line id="ver_4" y2="45" x2="327" y1="395" x1="327" stroke="#999999" fill="none"/>
+  <line id="ver_5" y2="45" x2="399" y1="395" x1="399" stroke="#999999" fill="none"/>
+  <line id="ver_6" y2="45" x2="471" y1="395" x1="471" stroke="#999999" fill="none"/>
+ 
+ <!-- Function Labels -->
+  <text id="identify" fill="#C00000" stroke="#000000" stroke-width="0" x="149" y="40" font-size="medium" font-family="arial" font-weight="bold" text-anchor="middle">Identify</text>
+  <text id="protect" fill="#C00000" stroke="#000000" stroke-width="0" x="221" y="40" font-size="medium" font-family="arial" font-weight="bold" text-anchor="middle">Protect</text>
+  <text id="detect" fill="#C00000" stroke="#000000" stroke-width="0" x="293" y="40" font-size="medium" font-family="arial" font-weight="bold" text-anchor="middle">Detect</text>
+  <text id="respond" fill="#C00000" stroke="#000000" stroke-width="0" x="365" y="40" font-size="medium" font-family="arial" font-weight="bold" text-anchor="middle">Respond</text>
+  <text id="recover" fill="#C00000" stroke="#000000" stroke-width="0" x="437" y="40" font-size="medium" font-family="arial" font-weight="bold" text-anchor="middle">Recover</text>
+
+ <!-- Asset Labels -->
+  <text id="devices" fill="#00569B" stroke="#000000" stroke-width="0" x="107" y="85" font-size="medium" font-family="arial" font-weight="bold" text-anchor="end">Devices</text>
+  <text id="applications" fill="#00569B" stroke="#000000" stroke-width="0" x="107" y="155" font-size="medium" font-family="arial" font-weight="bold" text-anchor="end">Applications</text>
+  <text id="networks" fill="#00569B" stroke="#000000" stroke-width="0" x="107" y="225" font-size="medium" font-family="arial" font-weight="bold" text-anchor="end">Networks</text>
+  <text id="data" fill="#00569B" stroke="#000000" stroke-width="0" x="107" y="295" font-size="medium" font-family="arial" font-weight="bold" text-anchor="end">Data</text>
+  <text id="users" fill="#00569B" stroke="#000000" stroke-width="0" x="107" y="366" font-size="medium" font-family="arial" font-weight="bold" text-anchor="end">Users</text>
+  <text id="degree" fill="#00569B" stroke="#000000" stroke-width="0" x="107" y="427" font-size="medium" font-family="arial" font-weight="bold" text-anchor="end">Degree of</text>
+  <text id="dependency" fill="#00569B" stroke="#000000" stroke-width="0" x="107" y="450" font-size="medium" font-family="arial" font-weight="bold" text-anchor="end">Dependency</text>
+
+ <!-- Triangle Labels -->
+  <text id="peopletext" fill="#ffffff" stroke="#000000" stroke-width="0" x="429" y="419" font-size="larger" font-family="arial" text-anchor="middle">People</text>
+  <text id="technologytext" fill="#ffffff" stroke="#000000" stroke-width="0" x="164" y="435" font-size="larger" font-family="arial" text-anchor="middle">Technology</text>
+  <text id="processtext" fill="#000000" stroke="#000000" stroke-width="0" x="288" y="464" font-size="larger" font-family="arial" text-anchor="middle">Process</text>
+ </g>
+</svg>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 70 81" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g stroke-width="0">
+  <g fill="#006fbe">
+   <path id="device-identify" d="m12 12 v0h10 v8h0 v0h-1 v2h0 v0h-9z"/>
+   <path id="application-identify" d="m12 24 v10h9 v-10h-9z"/>
+   <path id="network-identify" d="m12 36 v10h9 v-10h-9z"/>
+   <path id="data-identify" d="m12 48 v10h9 v-10h-9z"/>
+   <path id="user-identify" d="m12 60 v0h9 v2h1 v8h0 v0h-10z"/>
+   <path id="device-protect" d="m24 12 v0h8 v2h0 v0h2 v8h0 v0h-9 v-2h-1z"/>
+   <path id="application-protect" d="m25 24 v10h9 v-10h-9z"/>
+   <path id="network-protect" d="m25 36 v10h9 v-10h-9z"/>
+   <path id="data-protect" d="m25 48 v10h9 v-10h-9z"/>
+   <path id="user-protect" d="m25 60 v0h9 v8h0 v0h-2 v2h0 v0h-8 v-8h0 v0h1z"/>
+  </g>
+  <g fill="#fe8581">
+   <path id="device-detect" d="m38 12 v0h8 v8h0 v0h-1 v2h0 v0h-9 v-8h0 v0h2z"/>
+   <path id="application-detect" d="m36 24 v10h9 v-10h-9z"/>
+   <path id="network-detect" d="m36 36 v10h9 v-10h-9z"/>
+   <path id="data-detect" d="m36 48 v10h9 v-10h-9z"/>
+   <path id="user-detect" d="m36 60 v10h9 v-10h-9z"/>
+   <path id="device-respond" d="m48 12 v0h4 v2h0 v0h2 v-2h0 v0h4 v8h0 v0h-1 v2h0 v0h-8 v-2h0 v0h-1z"/>
+   <path id="application-respond" d="m49 24 v10h8 v-10h-8z"/>
+   <path id="network-respond" d="m49 36 v10h8 v-10h-8z"/>
+   <path id="data-respond" d="m49 48 v10h8 v-10h-8z"/>
+   <path id="user-respond" d="m49 60 v10h8 v-10h-8z"/>
+   <path id="device-recover" d="m60 12 v0h8 v2h0 v0h2 v8h0 v0h-9 v-2h0 v0h-1z"/>
+   <path id="application-recover" d="m61 24 v10h9 v-10h-9z"/>
+   <path id="network-recover" d="m61 36 v10h9 v-10h-9z"/>
+   <path id="data-recover" d="m61 48 v10h9 v-10h-9z"/>
+   <path id="user-recover" d="m61 60 v10h9 v-10h-9z"/>
+  </g>
+  <path id="people" d="m70 78 v-6h-58z" fill="#006fbe"/>
+  <path id="technology" d="m12 72 v6h58z" fill="#fd0000"/>
+  <g fill="#00af4f">
+   <path id="process" d="m12 78 v3h58 v-3h-58z"/>
+   <path id="functions" d="m12 0 v10h58 v-10h-58z"/>
+   <path id="assets" d="m0 12 v58h10 v-58h-10z"/>
+  </g>
+ </g>
+</svg>

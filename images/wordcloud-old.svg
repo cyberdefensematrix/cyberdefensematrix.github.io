@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="876.35" height="403.76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g font-family="Impact" text-anchor="middle">
+  <text x="391.79688" y="223.76318" fill="#5254a3" font-size="100px">Threat Intelligence</text>
+  <g font-size="10px">
+   <text x="644.79688" y="38.763184" fill="#8c6d31">Application Profiling</text>
+   <text x="167.79688" y="152.76318" fill="#bd9e39">Application Control</text>
+   <text x="203.79688" y="20.763184" fill="#e7ba52">Exploit Mitigation</text>
+   <text x="636.79688" y="237.76318" fill="#e7cb94">Web Fraud Detection</text>
+  </g>
+  <text x="251.15643" y="374.96542" fill="#843c39" font-size="37px">DDoS Mitigation</text>
+  <g font-size="10px">
+   <text x="616.79688" y="152.76318" fill="#ad494a">Advanced Threat Defense</text>
+   <text x="145.15643" y="385.96542" fill="#d6616b">Malware Prevention</text>
+   <text x="314.79688" y="21.763184" fill="#7b4173">Tokenization and Masking</text>
+  </g>
+  <text x="530.79688" y="19.763184" fill="#637939" font-size="25px">Phishing Awareness</text>
+  <text x="316.79688" y="71.763184" fill="#6b6ecf" font-size="58px">Behavioral Analytics</text>
+  <text x="211.79688" y="140.76318" fill="#ce6dbd" font-size="37px">Web Malware Prevention</text>
+  <text x="631.79688" y="140.76318" fill="#a55194" font-size="76px">Insider Threat</text>
+  <text x="542.15643" y="375.96542" fill="#b5cf6b" font-size="10px">Data Loss Prevention</text>
+  <text x="262.79688" y="105.76318" fill="#e7969c" font-size="37px">Incident Response</text>
+  <g font-size="25px">
+   <text x="502.15643" y="363.96542" fill="#8ca252">Endpoint Protection</text>
+   <text x="725.79688" y="63.763184" fill="#9c9ede">Cloud Access Security Broker</text>
+   <text x="353.15643" y="400.96545" fill="#cedb9c">Database Activity Monitoring</text>
+  </g>
+  <text x="406.79688" y="237.76318" fill="#e7cb94" font-size="10px">Endpoint Visibility Control</text>
+  <text x="384.79688" y="340.76318" fill="#393b79" font-size="58px">Advanced Persistent Threat</text>
+  <text x="430.79688" y="287.76318" fill="#ad494a" font-size="68px">Identity Access Management</text>
+ </g>
+</svg>
